@@ -121,7 +121,7 @@ My work focuses on combining Computer Vision, Deep Learning and Geospatial Intel
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-032-23161-1_3">
 
-<img src="./assets/publications/forestsam.png" alt="ForestSAM" width="95%">
+<img src="./publications/forestsam.png" alt="ForestSAM" width="95%">
 
 </a>
 
@@ -162,7 +162,7 @@ A hybrid Computer Vision framework that integrates **DeepForest** and **Segment 
 
 <a href="https://ieeexplore.ieee.org/document/10637810">
 
-<img src="./assets/publications/pulmonary.png" alt="Pulmonary Arterial Segmentation" width="95%">
+<img src="./publications/pulmonary.png" alt="Pulmonary Arterial Segmentation" width="95%">
 
 </a>
 
@@ -190,19 +190,6 @@ Deep learning approach for automatic pulmonary artery segmentation in CT images,
 
 </tr>
 </table>
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 Contribution Streak
 
@@ -218,7 +205,7 @@ Deep learning approach for automatic pulmonary artery segmentation in CT images,
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jpsuarezq&theme=github-dark"/>
 
 </p>
 
