@@ -6,19 +6,19 @@
 
 <br>
 
-<a href="mailto:jpsuarezq54@gmail.com">
+<a href="mailto:jpsuarezq54@gmail.com" >
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/jpsuarezq">
+<a href="https://www.linkedin.com/in/jpsuarezq" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="[[https://scholar.google.com/](https://scholar.google.com/citations?user=Ki2TEfMAAAAJ&hl=es)](https://scholar.google.com/citations?user=Ki2TEfMAAAAJ&hl=es)">
+<a href="https://scholar.google.com/citations?user=Ki2TEfMAAAAJ&hl=es" target="_blank">
 <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 </a>
 
-<a href="https://orcid.org/">
+<a href="[https://orcid.org/](https://orcid.org/0009-0009-6493-2003)" target="_blank">
 <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
 </a>
 
