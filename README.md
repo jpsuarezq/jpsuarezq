@@ -4,8 +4,6 @@
 
 ### Computer Vision Engineer | Remote Sensing AI | Geospatial Intelligence
 
-Building AI solutions using **Satellite Imagery**, **Drone Vision**, **LiDAR**, and **Deep Learning** for Earth Observation.
-
 <br>
 
 <a href="mailto:jpsuarezq54@gmail.com">
@@ -16,16 +14,12 @@ Building AI solutions using **Satellite Imagery**, **Drone Vision**, **LiDAR**, 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="[https://scholar.google.com/](https://scholar.google.com/citations?user=Ki2TEfMAAAAJ&hl=es)">
+<a href="[[https://scholar.google.com/](https://scholar.google.com/citations?user=Ki2TEfMAAAAJ&hl=es)](https://scholar.google.com/citations?user=Ki2TEfMAAAAJ&hl=es)">
 <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 </a>
 
 <a href="https://orcid.org/">
 <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 </div>
