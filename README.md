@@ -40,7 +40,8 @@ Currently, I work on developing and evaluating AI solutions for **remote sensing
 
 My research interests include **Computer Vision**, **Deep Learning**, **Foundation Models**, **Geospatial AI**, **Medical Imaging**, and **Multimodal Learning**, with a particular interest in developing AI systems that bridge academic research and real-world impact.
 
-I'm always interested in collaborating on **research projects**, **industry-sponsored R&D**, **summer research programs**, **research internships**, and opportunities to pursue **M.Sc.** or **Ph.D.** studies in collaboration with universities, research laboratories, and industry partners.
+I'm always interested in collaborating on **research projects**, **summer research programs**, **research internships**, and opportunities to pursue **M.Sc.** or **Ph.D.** studies in collaboration with universities, research laboratories, and industry partners.
+
 ---
 
 # 🔬 Research Interests
@@ -109,7 +110,6 @@ I'm always interested in collaborating on **research projects**, **industry-spon
 <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/U--Net-1976D2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SAM2-2E7D32?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DeepForest-388E3C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/GroundingDINO-1565C0?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SegFormer-F57C00?style=for-the-badge"/>
 
